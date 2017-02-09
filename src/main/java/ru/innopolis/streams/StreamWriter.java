@@ -1,7 +1,7 @@
 package ru.innopolis.streams;
 
 /**
- * Created by d.sapaev on 13.10.2016.
+ * Created by Igor Ryabtsev on 13.10.2016.
  */
 public interface StreamWriter {
 
